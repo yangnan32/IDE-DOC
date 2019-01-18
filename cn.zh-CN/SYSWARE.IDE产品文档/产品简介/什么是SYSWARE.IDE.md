@@ -5,7 +5,7 @@ SYSWARE.IDE（Integrated Digital Environment）是集工业APP开发、运行、
 目前SYSWARE.IDE可以提供的工业软件集成适配器器包括：Catia、UG、SolidWorks、ProE、Inventor、SolidEdge、MathCad 、Matlab、Mworks、Origin、iSight、Optimus、Abaqus、HPC、Word、Excel、WPS、DB（SQLite、Oracle、SQLServer）、Doors、Rhapsody、SimulaitonX、Simulink、Solidworks、Fluent、Ansys、HyperMesh、StarCCM+、ICEM、Flowmaster、AMESim、Adamas、LMS、HFSS、FEKO、CST、Flotherm、ICEPAK、Candence、ADS、Patran、Nastran、Zaero、Tecplot、Abaqus等。
 ## 工业APP开发
 可视化、无编程、可组配的工业APP开发平台，可实现工业领域数据、知识、技术的模型化、组件化的封装和定义。开发出来的工业APP满足可重用性、跨平台、随时随地可访问等特性。
-- **数据模型定义：**数据动态建模允许开发者建立设计、仿真、验证等各个阶段的数据模型。
+- **数据模型定义**：数据动态建模允许开发者建立设计、仿真、验证等各个阶段的数据模型。
 - **可视化的业务逻辑定义：**通过控制流、数据流、事件的方式提供开发者可视化地定义业务逻辑。同时提供大量第三方工具、系统集成组件、逻辑控制组件（For/While/IF等）、函数、公式、算法等单元逻辑。
 - **无编程的交互界面定义：**使用非编程、可视化的交互界面定义工具，可为封装的工业APP创建定制化的交互界面，提高使用友好性。
 ## 工业APP运行
