@@ -19,4 +19,4 @@ SYSWARE.IDE（Integrated Digital Environment）是集工业APP开发、运行、
 ## 工业APP应用
 工业APP一般是解决某个特定的问题，面向特定场景、特定专业的应用。
 ## 工业APP共享
-<img src="http://192.168.61.54/download?ID=2019011718101500005910ff2769eba243fe9f5f" style="width: 100px; height: 80px;">
+<img data-v-0a404e86="" src="https://data.zoogooy.com/download?ID=2017062611375900020013439518690d49389d52" class="appImg">
