@@ -1,0 +1,14 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    // <link href="docs.css" rel="stylesheet">
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Compile Markdown",
+            "type": "shell",
+            "command": "markdown-it sample/sample.md -o sample/sample.html",
+            "group": "build"
+        }
+    ]
+}
