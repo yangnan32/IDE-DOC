@@ -1,8 +1,14 @@
 # 什么是SYSWARE.IDE
 SYSWARE.IDE（Integrated Digital Environment）是集工业APP开发、运行、共享、应用与一体的工程环境。SYSWARE.IDE提供大量工业微服务及机理模型等核心组件，向下通过工业软件/设备集成适配器，实现大量异构工具的集成与接入以及数据的采集与转换，向上支撑工业APP的开发和运行，为企业的工业技术软件化提供一整套服务，从而为工程师提供一种无需操作复杂工业软件、直接面向产品及实现过程的工程开发新模式，从而大幅提升企业内部工业技术知识软件化率，实现工业技术知识的持续积累沉淀，大幅提升设计效率和质量。SYSWARE.IDE的主要功能包括：
+
+
 # 工业软件集成适配器
 制造业存在大量异构开发平台，一个大型的产品工程可能会涉及几百种CAD、CAE、CAM、EDA等工业软件。互相之间还未形成完整的互联互通协议。由于缺乏像软件业一样的统一语言，造成了制造业产品研制的巨大困难。工业软件集成适配器提供一套统一的工业软件连接和驱动的机制，可以极大地提高异构工业软件的集成效率，降低集成的难度，打通复杂产品设计全生命周期从研发（CAD、CAE、CAPP、CAM）到管理（PDM、SDM、TDM）的各学科、各领域软件的集成与协同，实现数据的无缝集成与智能感知，为实现端到端的工程数字化设计集成奠定基础。
+
+
 目前SYSWARE.IDE可以提供的工业软件集成适配器器包括：Catia、UG、SolidWorks、ProE、Inventor、SolidEdge、MathCad 、Matlab、Mworks、Origin、iSight、Optimus、Abaqus、HPC、Word、Excel、WPS、DB（SQLite、Oracle、SQLServer）、Doors、Rhapsody、SimulaitonX、Simulink、Solidworks、Fluent、Ansys、HyperMesh、StarCCM+、ICEM、Flowmaster、AMESim、Adamas、LMS、HFSS、FEKO、CST、Flotherm、ICEPAK、Candence、ADS、Patran、Nastran、Zaero、Tecplot、Abaqus等。
+
+
 ## 工业APP开发
 可视化、无编程、可组配的工业APP开发平台，可实现工业领域数据、知识、技术的模型化、组件化的封装和定义。开发出来的工业APP满足可重用性、跨平台、随时随地可访问等特性。
 - **数据模型定义**：数据动态建模允许开发者建立设计、仿真、验证等各个阶段的数据模型。
